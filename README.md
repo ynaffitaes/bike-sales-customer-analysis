@@ -81,8 +81,7 @@ The analysis suggests several opportunities for more targeted marketing efforts.
 - Develop campaigns tailored to male customers while further exploring opportunities to increase engagement among female customers.
 - Use commute distance as a segmentation variable, particularly targeting customers with shorter commuting distances.
 - Consider regional marketing strategies, as customer behavior differs across geographic markets.
-
-Rather than relying on a single marketing approach, the findings indicate that customer segmentation based on demographics and lifestyle characteristics can help improve campaign effectiveness and customer targeting.
+- Rather than relying on a single marketing approach, the findings indicate that customer segmentation based on demographics and lifestyle characteristics can help improve campaign effectiveness and customer targeting.
 ---
 
 ##  Skills Demonstrated
